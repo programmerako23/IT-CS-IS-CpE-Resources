@@ -8,5 +8,5 @@
 
 ## PDF resources 
 - [Free Programming Books - GoalKicker](https://books.goalkicker.com/)
-- [PDF Drive] (https://www.pdfdrive.com/programming-books.html)
+- [PDF Drive](https://www.pdfdrive.com/programming-books.html)
 
