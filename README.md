@@ -19,15 +19,13 @@
 - [TechBooksForFree](https://techbooksforfree.com/)
 - [Free-Ebooks](https://www.free-ebooks.net/)
 
-## Tech Interview 
-
-- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
-- [Full Stack Cafe](https://www.fullstack.cafe/)
-- [Interview Bit](https://www.interviewbit.com/)
-- [Interview Cake](https://www.interviewcake.com/)
-
 ## Free Learning Website's
 
-- [Freecodecamp](https://www.freecodecamp.org/)
-- [Sololearn](https://www.sololearn.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [SoloLearn](https://www.sololearn.com/)
 - [TheOdinProject](https://www.theodinproject.com/)
+- [GoogleGrow](https://grow.google/)
+- [TesdaWebDevCourse](https://e-tesda.gov.ph/course/index.php?categoryid=21)
+- [CodeWars](https://www.codewars.com/)
+- [CodeOrg](https://code.org/)
+- [W3School](https://www.w3schools.com/)
