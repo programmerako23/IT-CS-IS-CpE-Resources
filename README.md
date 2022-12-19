@@ -6,4 +6,7 @@
 - [Python for Dummies](https://edu.anarcho-copy.org/Programming%20Languages/Python/Python_All-In-One_for_Dummies.pdf)
 - [C++ for Dummies](http://uroci.karadev.net/pdf_basic/C++%20For%20DUMMIES.pdf)
 
+## PDF resources 
+- [Free Programming Books - GoalKicker](https://books.goalkicker.com/)
+- [PDF Drive] (https://www.pdfdrive.com/programming-books.html)
 
