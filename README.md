@@ -18,3 +18,9 @@
 - [E-Books Directory](http://www.e-booksdirectory.com/)
 - [TechBooksForFree](https://techbooksforfree.com/)
 - [Free-Ebooks](https://www.free-ebooks.net/)
+
+## Free Learning Website's
+
+- [Freecodecamp](https://www.freecodecamp.org/)
+- [Sololearn](https://www.sololearn.com/)
+- [TheOdinProject](https://www.theodinproject.com/)
