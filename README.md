@@ -26,10 +26,11 @@
 - [Interview Bit](https://www.interviewbit.com/)
 - [Interview Cake](https://www.interviewcake.com/)
 
+
 ## Free Learning Website's
 
-- [Freecodecamp](https://www.freecodecamp.org/)
-- [Sololearn](https://www.sololearn.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [SoloLearn](https://www.sololearn.com/)
 - [TheOdinProject](https://www.theodinproject.com/)
 - [LeetCode](https://leetcode.com/)
 - [HackerRank](https://hackerrank.com/)
@@ -38,3 +39,8 @@
 - [CodingNinjas](https://www.codingninjas.com/)
 - [CodeForces](https://codeforces.com/)
 - [AtCoder](https://atcoder.jp/)
+- [GoogleGrow](https://grow.google/)
+- [TesdaWebDevCourse](https://e-tesda.gov.ph/course/index.php?categoryid=21)
+- [CodeWars](https://www.codewars.com/)
+- [CodeOrg](https://code.org/)
+- [W3School](https://www.w3schools.com/)
