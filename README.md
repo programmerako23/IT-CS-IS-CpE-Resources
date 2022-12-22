@@ -31,20 +31,20 @@
 <details open>
     <summary>Links</summary>
     <ul>
-        <li>[FreeCodeCamp](https://www.freecodecamp.org/)</li>
-        <li>[SoloLearn](https://www.sololearn.com/)</li>
-        <li>[TheOdinProject](https://www.theodinproject.com/)</li>
-        <li>[LeetCode](https://leetcode.com/)</li>
-        <li>[HackerRank](https://hackerrank.com/)</li>
-        <li>[GeeksforGeeks](https://www.geeksforgeeks.org/)</li>
-        <li>[CodeChef](https://www.codechef.com/)</li>
-        <li>[CodingNinjas](https://www.codingninjas.com/)</li>
-        <li>[CodeForces](https://codeforces.com/)</li>
-        <li>[AtCoder](https://atcoder.jp/)</li>
-        <li>[GoogleGrow](https://grow.google/)</li>
-        <li>[TesdaWebDevCourse](https://e-tesda.gov.ph/course/index.php?categoryid=21)</li>
-        <li>[CodeWars](https://www.codewars.com/)</li>
-        <li>[CodeOrg](https://code.org/)</li>
-        <li>[W3School](https://www.w3schools.com/)</li>
+        <li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li> 
+        <li><a href="#">[SoloLearn](https://www.sololearn.com/)</a></li>
+        <li><a href="#">[TheOdinProject](https://www.theodinproject.com/)</a></li>
+        <li><a href="#">[LeetCode](https://leetcode.com/)</a></li>
+        <li><a href="#">[HackerRank](https://hackerrank.com/)</a></li>
+        <li><a href="#">[GeeksforGeeks](https://www.geeksforgeeks.org/)</a></li>
+        <li><a href="#">[CodeChef](https://www.codechef.com/)</a></li>
+        <li><a href="#">[CodingNinjas](https://www.codingninjas.com/)</a></li>
+        <li><a href="#">[CodeForces](https://codeforces.com/)</a></li>
+        <li><a href="#">[AtCoder](https://atcoder.jp/)</a></li>
+        <li><a href="#">[GoogleGrow](https://grow.google/)</a></li>
+        <li><a href="#">[TesdaWebDevCourse](https://e-tesda.gov.ph/course/index.php?categoryid=21)</a></li>
+        <li><a href="#">[CodeWars](https://www.codewars.com/)</a></li>
+        <li><a href="#">[CodeOrg](https://code.org/)</a></li>
+        <li><a href="#">[W3School](https://www.w3schools.com/)</a></li>
     </ul>
 </details>
