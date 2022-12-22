@@ -1,6 +1,6 @@
 # IT-CS-IS-CpE-Resources
 
-<details>
+<details open>
     <summary><h1>Fundamentals of Programming</h1><hr></summary>
     <ul>
     <li><a href="https://dl.icdst.org/pdfs/files3/37212bdb847efd3b6115430b634c2202.pdf">Java for Dummies PDF 6th Edition
@@ -9,7 +9,7 @@
     </ul>
 </details>
 
-<details>
+<details open>
     <summary><h1>PDF resources</h1><hr></summary>
     <ul>
         <li><a href="https://books.goalkicker.com/">Free Programming BooksGoalKicke</a></li>
@@ -25,14 +25,17 @@
     </ul>
 </details>
 
-## Tech Interview 
+<details open>
+    <summary><h1>Tech Interview</h1><hr></summary>
+    <ul>
+        <li><a href="https://www.techinterviewhandbook.org/">Tech Interview Handbook</a></li>
+        <li><a href="https://www.fullstack.cafe/">Full Stack Cafe</a></li>
+        <li><a href="https://www.interviewbit.com/">Interview Bit</a></li>
+        <li><a href="https://www.interviewcake.com/">Interview Cake</a></li>
+    </ul>
+</details>
 
-- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
-- [Full Stack Cafe](https://www.fullstack.cafe/)
-- [Interview Bit](https://www.interviewbit.com/)
-- [Interview Cake](https://www.interviewcake.com/)
-
-<details>
+<details open>
     <summary><h1>Free Learning Website's</h1><hr></summary>
     <ul>
         <li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li> 
@@ -53,4 +56,4 @@
     </ul>
 </details>
 
-<sup><sub>Note: </br>Contact @<a href="">Alger</a>,if you want a specific ebook for programming only!</sub></sup>
+<sup><sub>Note: </br>Contact <a href="">Alger</a>, if you want a specific ebook for programming only(1person:1book).</sub></sup>
