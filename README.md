@@ -29,22 +29,28 @@
 
 ## Free Learning Website's
 <details open>
-    <summary>Links</summary>
+    <summary><h1>Links</h1><hr></summary>
     <ul>
         <li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li> 
-        <li><a href="#">[SoloLearn](https://www.sololearn.com/)</a></li>
-        <li><a href="#">[TheOdinProject](https://www.theodinproject.com/)</a></li>
-        <li><a href="#">[LeetCode](https://leetcode.com/)</a></li>
-        <li><a href="#">[HackerRank](https://hackerrank.com/)</a></li>
-        <li><a href="#">[GeeksforGeeks](https://www.geeksforgeeks.org/)</a></li>
-        <li><a href="#">[CodeChef](https://www.codechef.com/)</a></li>
-        <li><a href="#">[CodingNinjas](https://www.codingninjas.com/)</a></li>
-        <li><a href="#">[CodeForces](https://codeforces.com/)</a></li>
-        <li><a href="#">[AtCoder](https://atcoder.jp/)</a></li>
-        <li><a href="#">[GoogleGrow](https://grow.google/)</a></li>
-        <li><a href="#">[TesdaWebDevCourse](https://e-tesda.gov.ph/course/index.php?categoryid=21)</a></li>
-        <li><a href="#">[CodeWars](https://www.codewars.com/)</a></li>
-        <li><a href="#">[CodeOrg](https://code.org/)</a></li>
-        <li><a href="#">[W3School](https://www.w3schools.com/)</a></li>
+        <li><a href="https://www.sololearn.com/">SoloLearn</a></li>
+        <li><a href="https://www.theodinproject.com/">TheOdinProject</a></li>
+        <li><a href="https://leetcode.com/">LeetCode</a></li>
+        <li><a href="https://hackerrank.com/">HackerRank</a></li>
+        <li><a href="https://www.geeksforgeeks.org/">GeeksforGeeks</a></li>
+        <li><a href="https://www.codechef.com/">CodeChef</a></li>
+        <li><a href="https://www.codingninjas.com/">CodingNinjas</a></li>
+        <li><a href="https://codeforces.com/">CodeForces</a></li>
+        <li><a href="https://atcoder.jp/">AtCoder</a></li>
+        <li><a href="https://grow.google/">GoogleGrow</a></li>
+        <li><a href="https://e-tesda.gov.ph/course/index.php?categoryid=21">TesdaWebDevCourse</a></li>
+        <li><a href="https://www.codewars.com/">CodeWars</a></li>
+        <li><a href="https://code.org/">CodeOrg</a></li>
+        <li><a href="https://www.w3schools.com/">W3School</a></li>
     </ul>
 </details>
+
+<style>
+    ul {
+        list-style: 'none';
+    }
+</style>
