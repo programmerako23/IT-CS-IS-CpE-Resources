@@ -32,7 +32,7 @@
 <details open>
     <summary><h1>Free Learning Website's</h1><hr></summary>
     <ul>
-        <li><a target="_blank" href="https://www.freecodecamp.org/">FreeCodeCamp</a></li> 
+        <li><a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a></li> 
         <li><a target="_blank" href="https://www.sololearn.com/">SoloLearn</a></li>
         <li><a target="_blank" href="https://www.theodinproject.com/">TheOdinProject</a></li>
         <li><a target="_blank" href="https://leetcode.com/">LeetCode</a></li>
