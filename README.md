@@ -28,19 +28,21 @@
 
 
 ## Free Learning Website's
-
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [SoloLearn](https://www.sololearn.com/)
-- [TheOdinProject](https://www.theodinproject.com/)
-- [LeetCode](https://leetcode.com/)
-- [HackerRank](https://hackerrank.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [CodeChef](https://www.codechef.com/)
-- [CodingNinjas](https://www.codingninjas.com/)
-- [CodeForces](https://codeforces.com/)
-- [AtCoder](https://atcoder.jp/)
-- [GoogleGrow](https://grow.google/)
-- [TesdaWebDevCourse](https://e-tesda.gov.ph/course/index.php?categoryid=21)
-- [CodeWars](https://www.codewars.com/)
-- [CodeOrg](https://code.org/)
-- [W3School](https://www.w3schools.com/)
+<details open>
+    <summary>Links</summary>
+    <li>- [FreeCodeCamp](https://www.freecodecamp.org/)</li>
+    <li>- [SoloLearn](https://www.sololearn.com/)</li>
+    <li>- [TheOdinProject](https://www.theodinproject.com/)</li>
+    <li>- [LeetCode](https://leetcode.com/)</li>
+    <li>- [HackerRank](https://hackerrank.com/)</li>
+    <li>- [GeeksforGeeks](https://www.geeksforgeeks.org/)</li>
+    <li>- [CodeChef](https://www.codechef.com/)</li>
+    <li>- [CodingNinjas](https://www.codingninjas.com/)</li>
+    <li>- [CodeForces](https://codeforces.com/)</li>
+    <li>- [AtCoder](https://atcoder.jp/)</li>
+    <li>- [GoogleGrow](https://grow.google/)</li>
+    <li>- [TesdaWebDevCourse](https://e-tesda.gov.ph/course/index.php?categoryid=21)</li>
+    <li>- [CodeWars](https://www.codewars.com/)</li>
+    <li>- [CodeOrg](https://code.org/)</li>
+    <li>- [W3School](https://www.w3schools.com/)</li>
+</details>
