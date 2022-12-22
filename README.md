@@ -26,10 +26,8 @@
 - [Interview Bit](https://www.interviewbit.com/)
 - [Interview Cake](https://www.interviewcake.com/)
 
-
-## Free Learning Website's
 <details open>
-    <summary><h1>Links</h1><hr></summary>
+    <summary><h1>Free Learning Website's</h1><hr></summary>
     <ul>
         <li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li> 
         <li><a href="https://www.sololearn.com/">SoloLearn</a></li>
@@ -48,9 +46,3 @@
         <li><a href="https://www.w3schools.com/">W3School</a></li>
     </ul>
 </details>
-
-<style>
-    ul {
-        list-style: 'none';
-    }
-</style>
